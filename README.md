@@ -3,11 +3,11 @@ This repo is a curated collection of resources, tools, and techniques for genera
 
 # Table of Contents
 
-- [But what are fingerprints anyway?](https://github.com/darkquasar/awesome-fingerprints#but-what-are-fingerprints-anyway)
-    - [Why should we care about fingerprints in Cybersecurity?](https://github.com/darkquasar/awesome-fingerprints#why-should-we-care-about-fingerprints-in-cybersecurity)
-- [Digital Fingerprints](https://github.com/darkquasar/awesome-fingerprints#digital-fingerprints)
-- [Useful References](https://github.com/darkquasar/awesome-fingerprints?tab=readme-ov-file#website-favicon-and-other-icon-hashes)
-- [Tools](https://github.com/darkquasar/awesome-fingerprints?tab=readme-ov-file#tools)
+- [But what are fingerprints anyway?](#but-what-are-fingerprints-anyway)
+    - [Why should we care about fingerprints in Cybersecurity?](#why-should-we-care-about-fingerprints-in-cybersecurity)
+- [Digital Fingerprints](#digital-fingerprints)
+- [Useful References](#useful-references)
+- [Tools](#tools)
 
 # But what are fingerprints anyway?
 
